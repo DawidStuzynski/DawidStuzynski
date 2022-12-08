@@ -23,3 +23,5 @@ Email: dawid.stuzynski@gmail.com
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
+## 📈 My GitHub stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/?username=DawidStuzynski&show_icons=true&locale=en&theme=radical" alt="DawidStuzynski" /></p>
