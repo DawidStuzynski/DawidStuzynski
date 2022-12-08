@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DawidStuzynski. Currently I work as a PLC programmer 
+- 👋 Hi, I’m @DawidStuzynski. I am Java Developer
 - 👀 I’m interested in creating RESTful APIs using Spring Boot
 - 🌱 I’m currently learning Kubernetes and AWS
 - 💞️ I’m looking to collaborate on any kind of Spring Boot projects
