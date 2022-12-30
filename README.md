@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DawidStuzynski. I am Java Developer
 - 👀 I’m interested in creating RESTful APIs using Spring Boot
-- 🌱 I’m currently learning Kubernetes and AWS
+- 🌱 I’m currently learning Kubernetes and AWS. In the near future I plan to pass the AWS Certified Developer - Associate certificate (DVA-C01)
 - 📫 How to reach me 
 LinkedIn: https://www.linkedin.com/in/dawid-stuzynski
 Email: dawid.stuzynski@gmail.com
