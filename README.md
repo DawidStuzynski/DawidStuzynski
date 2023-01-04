@@ -25,4 +25,4 @@ Email: dawid.stuzynski@gmail.com
 
 
 ## 📈 My GitHub stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/?username=DawidStuzynski&show_icons=true&locale=en&theme=radical" alt="DawidStuzynski" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DawidStuzynski&show_icons=true&theme=radical)
