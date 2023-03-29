@@ -3,7 +3,7 @@
 - I’m currently learning microservices, Kubernetes and AWS.
 - 📫 How to reach me: 
 LinkedIn: https://www.linkedin.com/in/dawid-stuzynski
-Email: dawid.stuzynski@gmail.com
+email: dawid.stuzynski@gmail.com
 
 
 ### 🛠 &nbsp;Tech Stack
