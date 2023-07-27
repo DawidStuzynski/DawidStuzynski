@@ -1,4 +1,4 @@
-- I’m @DawidStuzynski. I am Java Developer
+- I’m @DawidStuzynski. I am Java Developer and DevOps
 - I’m interested in creating REST applications using Spring Boot
 - I’m currently learning microservices, Kubernetes and AWS.
 - 📫 How to reach me: 
