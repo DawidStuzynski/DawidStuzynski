@@ -1,6 +1,6 @@
 - I’m @DawidStuzynski. I am Java Developer and DevOps
 - I’m interested in creating REST applications using Spring Boot
-- I’m currently learning microservices, Kubernetes and AWS.
+- I’m currently learning for AWS Certified Solutions Architect – Associate Certification
 - 📫 How to reach me: 
 LinkedIn: https://www.linkedin.com/in/dawid-stuzynski
 email: dawid.stuzynski@gmail.com
